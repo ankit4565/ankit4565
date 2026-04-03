@@ -1,12 +1,53 @@
-- 👋 Hi, I’m @ankit4565
-- 👀 I’m interested in  coding...
-- 🌱 I’m currently learning java...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Ankit Bowade</h1>
+<h3 align="center">🚀 Full Stack Developer | AI & Blockchain Enthusiast</h3>
 
-<!---
-ankit4565/ankit4565 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 💡 About Me
+- 🔭 Currently building **Trade Sync AI – Export Copilot**
+- 🌱 Learning **LangChain, RAG, System Design**
+- 💻 Solved **260+ DSA problems** (LeetCode)
+- ⚡ Passionate about **real-world problem solving**
+
+---
+
+### 🚀 Tech Stack
+- 💻 Languages: Java, C++, JavaScript  
+- 🌐 Frontend: HTML, CSS, React  
+- 🔧 Backend: Node.js, Firebase  
+- 🤖 AI: LangChain, RAG  
+- 🛢️ Database: Firestore  
+
+---
+
+### 🔥 Featured Project
+#### 🚀 Trade Sync AI
+- Multi-agent AI export platform  
+- Connects buyers & exporters  
+- Automates trade lifecycle  
+- 🔗 [View Project](https://github.com/ankit4565/Trade-Sync-AI)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit4565&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit4565" />
+</p>
+
+---
+
+### 📈 LeetCode Stats
+- 🔗 https://leetcode.com/u/AkaBiWtGef/
+- 🧠 260+ Problems Solved  
+- 📊 1400+ Rating  
+
+---
+
+### 🌐 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/ankit-bowade-0ab149297/
+- 💻 GitHub: https://github.com/ankit4565
+
+---
+
+⭐️ From [ankit4565](https://github.com/ankit4565)
