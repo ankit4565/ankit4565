@@ -14,9 +14,9 @@
 ### 🚀 Tech Stack
 - 💻 Languages: Java, C++, JavaScript  
 - 🌐 Frontend: HTML, CSS, React  
-- 🔧 Backend: Node.js, Firebase  
+- 🔧 Backend: Spring, SpringBoot, Node.js, Firebase  
 - 🤖 AI: LangChain, RAG  
-- 🛢️ Database: Firestore  
+- 🛢️ Database: SQL, PostgreSQL 
 
 ---
 
