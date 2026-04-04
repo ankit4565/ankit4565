@@ -6,7 +6,7 @@
 ### 💡 About Me
 - 🔭 Currently building **Trade Sync AI – Export Copilot**
 - 🌱 Learning **LangChain, RAG, System Design**
-- 💻 Solved **260+ DSA problems** (LeetCode)
+- 💻 Solved **300+ DSA problems** (LeetCode)
 - ⚡ Passionate about **real-world problem solving**
 
 ---
