@@ -39,7 +39,7 @@
 
 ### 📈 LeetCode Stats
 - 🔗 https://leetcode.com/u/AkaBiWtGef/
-- 🧠 260+ Problems Solved  
+- 🧠 300+ Problems Solved  
 - 📊 1400+ Rating  
 
 ---
