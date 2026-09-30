@@ -18,13 +18,11 @@
 
 🎓 Final-year **Computer Science and Business Systems** student at RGPV Bhopal, passionate about building scalable applications and solving real-world problems.
 
-💼 Experienced in developing **enterprise ERP modules, RESTful APIs, and database-driven applications** through hands-on full-stack development experience.
+💼 Experienced in developing **enterprise ERP and IMS modules, RESTful APIs, and database-driven applications** through hands-on full-stack development experience.
 
 ⚙️ **Tech Stack:** Java • Spring Boot • React.js • Node.js • Express.js • PostgreSQL • MySQL
 
 🌱 **Currently Exploring:** Backend Engineering, System Design, DSA, and scalable application architecture.
-
-🏆 **Achievement:** 🥇 First-place team finish at Fibohack.
 
 🤝 **Open to:** Software Engineering opportunities, exciting projects, and collaborations.
 
